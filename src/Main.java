@@ -7,5 +7,6 @@ public class Main {
         System.out.println("output from java program");
         System.out.println(LocalDate.now());
         System.out.println("heyyy");
+        System.out.println("hello");
     }
 }
